@@ -13,7 +13,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Mua
+          testando ci/cd
         </a>
       </header>
     </div>
